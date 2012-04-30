@@ -6,6 +6,7 @@
         //Module initialization
         MyModule.init({
             intFade : 2000,
+            container : $container,
             //Custom event 1
             onEvent1: function() {
                 $container.append('<p>Custom event 1</p>');

@@ -45,15 +45,17 @@
      * 
      */
     self.init = function(params){
-        $('body').hide();
+        
         
         //jQuery helper for overriding options
         options = $.extend(options, params);
         
+        options.container.hide();
+        
         //Custom event call
         options.onEvent1();
         
-        $('body').fadeIn(options.intFade);
+        options.container.fadeIn(options.intFade);
     }
     
     /** 
