@@ -8,9 +8,9 @@ The aim is to help organizing javaScript projects in a maintanable way.
 
 **Contact:**
 
-*   [@vcabourdin](http://twitter.com/vcabourdin) on twitter
-*   Github - https://github.com/vcabourdin
+*   [My resume](http://vcabourdin.github.com/resume) on Github
+*   [@vcabourdin](http://twitter.com/vcabourdin) on twitter 
 
-**Projects:**
+**Projects on Github - https://github.com/vcabourdin :**
 
 *   Backbone-App - https://github.com/vcabourdin/Backbone-App
